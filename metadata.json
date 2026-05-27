@@ -1,0 +1,6 @@
+{
+  "name": "单词默写",
+  "description": "一个功能齐全的单词默写与背诵应用，支持图片识别导入、手动英文输入、AI自动生成音标和例句，以及错词库复习模式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
